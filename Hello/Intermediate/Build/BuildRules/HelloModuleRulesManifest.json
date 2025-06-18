@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\GitHub\\HW05\\Hello\\Source\\Hello\\Hello.Build.cs",
+		"H:\\GitHub\\HW05\\Hello\\Source\\Hello.Target.cs",
+		"H:\\GitHub\\HW05\\Hello\\Source\\HelloEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
